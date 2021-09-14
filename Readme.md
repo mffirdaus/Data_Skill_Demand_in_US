@@ -10,8 +10,13 @@ This project is made by:
 - Ni Putu Putri Marinda
 - Muhammad Farrel Savero
 
-The insights that we are going to gained are:
-- Relation betwwen each of skills needed in data industry at each state in US
-- Location with high demand of engineer in data industry
-- Relation between salary at each state
-- Location with high salary for engineer in data industry
+The result is:
+- Python is the most needed skill for jobs in data industry
+- Salary is not inline with workload. Even though the workload is high, it doesn't mean the salary will also be high
+- California, Virginia, Maryland, New York, and Massachusetts are the state with highest job demand in data industry
+
+We recommend for anyone who seek for a job in data industry in US to:
+- Masterize python
+- Seek for a job in New York, due to its high demand and high salary provided
+
+Note: this project doesn't consider living cost in each state, so it only consider salary and workload
